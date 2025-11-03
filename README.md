@@ -1,19 +1,26 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Breaking Chains 0x4051 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Tired of corporate politics and powerless to deal with negative toxcity?
+Here is the first version of "Breaking Chains" to smooth it up. A new attempt
+to a dance vocal combining with video making background music.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/01_Breaking-Chains-0x4051.mp3
+  Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
+Access: 2025-11-03 11:33:43.077456675 +0800
+Modify: 2025-11-03 11:34:31.097705172 +0800
+Change: 2025-11-03 11:34:31.097705172 +0800
+ Birth: 2025-07-20 11:06:54.991747698 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-06
+On YouTube since : 2025-08-08
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=t9towt_-RyU)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +53,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Breaking Chains 0x4051
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-breaking-chains-0x4051
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
